@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Homebrew)(type Legacy)(uri /home/alex/PCB/Homebrew.lib)(options "")(descr ""))
+  (lib (name HB-UNI-SEN-PCB-rescue)(type Legacy)(uri /home/alex/PCB/HB-UNI-SEN-PCB-rescue.lib)(options "")(descr ""))
+)
